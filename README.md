@@ -165,6 +165,3 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 
 
 
-
-
-
