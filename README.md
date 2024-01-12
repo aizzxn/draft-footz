@@ -104,7 +104,7 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <br><br>
 
 <img align="right" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03K5DP1Y2E-1e53532065f1-512" />
-<h2>Scrum Master & QA</h2>
+<h2>Scrum Master</h2>
 <p>Richard Jacomo, São Paulo</p>
 
 [Github](https://github.com/RichardJacomo)
@@ -112,7 +112,7 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <br><br>
 
 <img align="left" width="180" src="https://i.imgur.com/qheLGC6.jpg" />
-<h2>Product Owner & QA</h2>
+<h2>Product Owner</h2>
 <p>Augusto Matavelli, São Paulo</p>
 
 [Github](https://github.com/augustomatavelli)
@@ -120,7 +120,7 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <br><br>
 
 <img align="right" width="210" src="https://i.imgur.com/AJt6pI8.png" />
-<h2>Quality Assurance</h2>
+<h2>Developer</h2>
 <p>Renan Dutra, Rio Grande do Sul</p>
 
 [Github](https://github.com/rgranatodutra)
@@ -128,7 +128,7 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <br><br>
 
 <img align="left" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03KJRXENFN-7b7ae959cf2a-512" />
-<h2>Quality Assurance</h2>
+<h2>Developer</h2>
 <p>Arthur Vinicius, Minas Gerais</p>
 
 [Github](https://github.com/ArthurViniciusBA1)
@@ -136,7 +136,7 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <br><br>
 
 <img align="right" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03MMGSA0RJ-93bbbbcc469b-512" />
-<h2>Quality Assurance</h2>
+<h2>Developer</h2>
 <p>Leonardo Cunha, Paraná</p>
 
 [Github](https://github.com/leonardo-cb)
@@ -144,7 +144,7 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <br><br>
 
 <img align="left" width="180" src="https://avatars.githubusercontent.com/u/106606239?v=4" />
-<h2>Quality Assurance</h2>
+<h2>Developer</h2>
 <p>Neilson Oliveira, Bahia</p>
 
 [Github](https://github.com/neyprodigio)
