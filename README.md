@@ -99,7 +99,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Tech Lead</h2>
 <p>Vitor Lima, São Paulo</p>
 
-[Github](https://github.com/victorglim)
 
 <br><br>
 
@@ -107,7 +106,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Scrum Master</h2>
 <p>Richard Jacomo, São Paulo</p>
 
-[Github](https://github.com/RichardJacomo)
 
 <br><br>
 
@@ -115,7 +113,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Product Owner</h2>
 <p>Augusto Matavelli, São Paulo</p>
 
-[Github](https://github.com/augustomatavelli)
 
 <br><br>
 
@@ -123,7 +120,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Developer</h2>
 <p>Renan Dutra, Rio Grande do Sul</p>
 
-[Github](https://github.com/rgranatodutra)
 
 <br><br>
 
@@ -131,7 +127,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Developer</h2>
 <p>Arthur Vinicius, Minas Gerais</p>
 
-[Github](https://github.com/ArthurViniciusBA1)
 
 <br><br>
 
@@ -139,7 +134,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Developer</h2>
 <p>Leonardo Cunha, Paraná</p>
 
-[Github](https://github.com/leonardo-cb)
 
 <br><br>
 
@@ -147,7 +141,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Developer</h2>
 <p>Neilson Oliveira, Bahia</p>
 
-[Github](https://github.com/neyprodigio)
 
 <br><br>
 
