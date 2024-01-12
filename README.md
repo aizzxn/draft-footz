@@ -97,9 +97,8 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 
 <img align="left" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03LP2TTUTZ-8ad150453df2-512" />
 <h2>Tech Lead</h2>
-<p>Victor Lima, São Paulo</p>
+<p>Vitor Lima, São Paulo</p>
 
-[Linkedin](https://www.linkedin.com/in/vitor-lima/) <br>
 [Github](https://github.com/victorglim)
 
 <br><br>
@@ -108,7 +107,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Scrum Master & QA</h2>
 <p>Richard Jacomo, São Paulo</p>
 
-[Linkedin](https://www.linkedin.com/in/richard-jacomo/) <br>
 [Github](https://github.com/RichardJacomo)
 
 <br><br>
@@ -117,7 +115,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Product Owner & QA</h2>
 <p>Augusto Matavelli, São Paulo</p>
 
-[Linkedin](https://www.linkedin.com/in/augustomatavelli/) <br>
 [Github](https://github.com/augustomatavelli)
 
 <br><br>
@@ -126,7 +123,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Quality Assurance</h2>
 <p>Renan Dutra, Rio Grande do Sul</p>
 
-[Linkedin](https://www.linkedin.com/in/renangdutra/) <br>
 [Github](https://github.com/rgranatodutra)
 
 <br><br>
@@ -135,7 +131,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Quality Assurance</h2>
 <p>Arthur Vinicius, Minas Gerais</p>
 
-[Linkedin](https://www.linkedin.com/in/ferreiraarthurvinicius/) <br>
 [Github](https://github.com/ArthurViniciusBA1)
 
 <br><br>
@@ -144,7 +139,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Quality Assurance</h2>
 <p>Leonardo Cunha, Paraná</p>
 
-[Linkedin](https://www.linkedin.com/in/leonardo-cunha-balhana-487612116/) <br>
 [Github](https://github.com/leonardo-cb)
 
 <br><br>
@@ -153,7 +147,6 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 <h2>Quality Assurance</h2>
 <p>Neilson Oliveira, Bahia</p>
 
-[Linkedin](https://www.linkedin.com/in/neilson-oliveira/) <br>
 [Github](https://github.com/neyprodigio)
 
 <br><br>
