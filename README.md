@@ -102,12 +102,16 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 
 <br><br>
 
+
+
 <img align="right" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03K5DP1Y2E-1e53532065f1-512" />
 <h2>Scrum Master</h2>
 <p>Richard Jacomo, São Paulo</p>
 
 
 <br><br>
+
+
 
 <img align="left" width="180" src="https://i.imgur.com/qheLGC6.jpg" />
 <h2>Product Owner</h2>
@@ -116,6 +120,8 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 
 <br><br>
 
+
+
 <img align="right" width="210" src="https://i.imgur.com/AJt6pI8.png" />
 <h2>Developer</h2>
 <p>Renan Dutra, Rio Grande do Sul</p>
@@ -123,19 +129,29 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 
 <br><br>
 
+
+
 <img align="left" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03KJRXENFN-7b7ae959cf2a-512" />
 <h2>Developer</h2>
 <p>Arthur Vinicius, Minas Gerais</p>
 
 
+
+
 <br><br>
+
+
 
 <img align="right" width="180" src="https://ca.slack-edge.com/TQZR39SET-U03MMGSA0RJ-93bbbbcc469b-512" />
 <h2>Developer</h2>
 <p>Leonardo Cunha, Paraná</p>
 
 
+
+
 <br><br>
+
+
 
 <img align="left" width="180" src="https://avatars.githubusercontent.com/u/106606239?v=4" />
 <h2>Developer</h2>
@@ -143,6 +159,8 @@ Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependê
 
 
 <br><br>
+
+
 
 
 
